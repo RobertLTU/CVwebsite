@@ -1,2 +1,2 @@
 # CVwebsite
-My first repository for CV web page project
+My very first ever HTML practice code, first github repository and firs ever published web page :)
